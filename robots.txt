@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://veekahphe.playdnd.today/sitemap.xml
